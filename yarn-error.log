@@ -1,0 +1,34 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.21.1/libexec/bin/yarn.js add react-native --exact
+
+PATH: 
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.21.1
+
+Node version: 
+  12.13.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/react-native: tunneling socket could not be established, cause=getaddrinfo ENOTFOUND proxy.company.com
+      at ClientRequest.onError (/usr/local/Cellar/yarn/1.21.1/libexec/lib/cli.js:152151:17)
+      at Object.onceWrapper (events.js:300:26)
+      at ClientRequest.emit (events.js:210:5)
+      at Socket.socketErrorListener (_http_client.js:406:9)
+      at Socket.emit (events.js:210:5)
+      at emitErrorNT (internal/streams/destroy.js:92:8)
+      at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+      at processTicksAndRejections (internal/process/task_queues.js:80:21)
+
+npm manifest: 
+  {"name":"demo","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"}}
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

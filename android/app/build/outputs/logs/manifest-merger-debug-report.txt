@@ -1,0 +1,465 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/7eb66c904a1419159dfdec3e7749d537/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_masked-view] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/eb0c8c3c1cb0226cbd82851ac7e03d62/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/753083dc4e61358362da18db91b796a6/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/6c639bcf14549490f69f74a029650fab/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/65432db2ec5430e29b106ad4c13764a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/96668fa9a659a7b6186f56e7fe68dad6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e229ebdf6d76eda7a2b120eab6aa003b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/d0c53e3311528f551d2984a74ed5f48b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2213a4a9a5beceeee2b56b972ecb0112/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/939828d1777df56e17c120fa5698a4b3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/94ec46b06bcfed400d549a05d147b93e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c936ecce134ae5a662a00ee95584d3da/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2a63d6a8fb45f8669635fafd0dc45249/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/3b204e93d40d2b8701229a8d9407388d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/18b7327af802b6722f42fb94a38ead58/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2c03fa3636b2117becbd5c5173105103/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/230a6e1ea81ccf17f3738c3b42d5751e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/06c3d5ee95fa2836def48f0c5a0b5367/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/60f70190e595895723208509a5865e66/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a210a34bba3e3462ded1c43e67d2486f/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/d980f3924ebe3057973c0e3cb685b032/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/98c9811f6d626e06af8b04a427c28507/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/67ae51350ecdcc95cce6f51f5a3e2f01/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/068e31670d986f3fb11e928d80a34656/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/45f471ba9c910ee557361db30ff9dcf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/1cdcec676bdca7cb5e3cbd09a03a5637/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/25e5ace40c0019c7666e3c18ef3bfb65/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/f3ee5fa703a1ed58e02aea45889585c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/65b0d89ab67b617c1757cd0f8dd7f44f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/0f20f415f9a0c16b9e742a5a988b2d83/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/4e27b977dc5420aafdcf9963e4c67d14/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/79a995fee25d6cb444a2b0e3de771eb8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bb145a3912ddb2f2524a8193dd584d0b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/1fc6fac5e1f680d7b85c8f31fcaf4efe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/81c9e53aaf6e2d8732524299e6d0cbdf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/96dbeea23e8a6d79f964a21362b02f7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/8813fa072ccb44719643188205a069f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a098572ff02eb69d6c5dadeb972bed61/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/0c380524c5a3cdc1841a805ed98317d4/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e88c3d86bc644a44a8b7e20066575482/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/9458eb339cc96d76165a899859fa1c99/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/4a2c83e9b50bb9203eb988024aafbba3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/b38a6a4ebb9b0c4bc21c56229504b851/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/6804f1d76d45a9e91eb7c1c22216bec6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c2fa51acda9131a33d1aa8c13dfcee02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/fccc550693a9dba75dc87ce53da9e9fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/6387b9e1ca6b99631e15af40e2883a27/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a5b2e6c829c6c6a173d87aebd79e91a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/6e3173007002ec84ca00bce72905ad16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2245df2b78e133bcb6b38633832c55ac/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:2:3-21
+		INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:2:3-21
+		INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/18b7327af802b6722f42fb94a38ead58/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/18b7327af802b6722f42fb94a38ead58/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/7eb66c904a1419159dfdec3e7749d537/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/7eb66c904a1419159dfdec3e7749d537/AndroidManifest.xml:7:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/eb0c8c3c1cb0226cbd82851ac7e03d62/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/eb0c8c3c1cb0226cbd82851ac7e03d62/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/6c639bcf14549490f69f74a029650fab/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/6c639bcf14549490f69f74a029650fab/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2a63d6a8fb45f8669635fafd0dc45249/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2a63d6a8fb45f8669635fafd0dc45249/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2c03fa3636b2117becbd5c5173105103/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2c03fa3636b2117becbd5c5173105103/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/230a6e1ea81ccf17f3738c3b42d5751e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/230a6e1ea81ccf17f3738c3b42d5751e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/06c3d5ee95fa2836def48f0c5a0b5367/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/06c3d5ee95fa2836def48f0c5a0b5367/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/60f70190e595895723208509a5865e66/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/60f70190e595895723208509a5865e66/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a210a34bba3e3462ded1c43e67d2486f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a210a34bba3e3462ded1c43e67d2486f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/d980f3924ebe3057973c0e3cb685b032/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/d980f3924ebe3057973c0e3cb685b032/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/98c9811f6d626e06af8b04a427c28507/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/98c9811f6d626e06af8b04a427c28507/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/67ae51350ecdcc95cce6f51f5a3e2f01/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/67ae51350ecdcc95cce6f51f5a3e2f01/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/068e31670d986f3fb11e928d80a34656/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/068e31670d986f3fb11e928d80a34656/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a098572ff02eb69d6c5dadeb972bed61/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a098572ff02eb69d6c5dadeb972bed61/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/0c380524c5a3cdc1841a805ed98317d4/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/0c380524c5a3cdc1841a805ed98317d4/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a098572ff02eb69d6c5dadeb972bed61/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.demo.MainActivity
+ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/7eb66c904a1419159dfdec3e7749d537/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/7eb66c904a1419159dfdec3e7749d537/AndroidManifest.xml:5:5-44
+MERGED from [:@react-native-community_masked-view] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/eb0c8c3c1cb0226cbd82851ac7e03d62/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/eb0c8c3c1cb0226cbd82851ac7e03d62/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/753083dc4e61358362da18db91b796a6/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/753083dc4e61358362da18db91b796a6/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/adafftech/Documents/Bhuwanesh/demoProject/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/6c639bcf14549490f69f74a029650fab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/6c639bcf14549490f69f74a029650fab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/65432db2ec5430e29b106ad4c13764a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/65432db2ec5430e29b106ad4c13764a8/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/96668fa9a659a7b6186f56e7fe68dad6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/96668fa9a659a7b6186f56e7fe68dad6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e229ebdf6d76eda7a2b120eab6aa003b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e229ebdf6d76eda7a2b120eab6aa003b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/d0c53e3311528f551d2984a74ed5f48b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/d0c53e3311528f551d2984a74ed5f48b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2213a4a9a5beceeee2b56b972ecb0112/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2213a4a9a5beceeee2b56b972ecb0112/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/939828d1777df56e17c120fa5698a4b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/939828d1777df56e17c120fa5698a4b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/94ec46b06bcfed400d549a05d147b93e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/94ec46b06bcfed400d549a05d147b93e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c936ecce134ae5a662a00ee95584d3da/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c936ecce134ae5a662a00ee95584d3da/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2a63d6a8fb45f8669635fafd0dc45249/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2a63d6a8fb45f8669635fafd0dc45249/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/3b204e93d40d2b8701229a8d9407388d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/3b204e93d40d2b8701229a8d9407388d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/18b7327af802b6722f42fb94a38ead58/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/18b7327af802b6722f42fb94a38ead58/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2c03fa3636b2117becbd5c5173105103/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2c03fa3636b2117becbd5c5173105103/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/230a6e1ea81ccf17f3738c3b42d5751e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/230a6e1ea81ccf17f3738c3b42d5751e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/06c3d5ee95fa2836def48f0c5a0b5367/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/06c3d5ee95fa2836def48f0c5a0b5367/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/60f70190e595895723208509a5865e66/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/60f70190e595895723208509a5865e66/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a210a34bba3e3462ded1c43e67d2486f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a210a34bba3e3462ded1c43e67d2486f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/d980f3924ebe3057973c0e3cb685b032/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/d980f3924ebe3057973c0e3cb685b032/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/98c9811f6d626e06af8b04a427c28507/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/98c9811f6d626e06af8b04a427c28507/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/67ae51350ecdcc95cce6f51f5a3e2f01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/67ae51350ecdcc95cce6f51f5a3e2f01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/068e31670d986f3fb11e928d80a34656/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/068e31670d986f3fb11e928d80a34656/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/45f471ba9c910ee557361db30ff9dcf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/45f471ba9c910ee557361db30ff9dcf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/1cdcec676bdca7cb5e3cbd09a03a5637/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/1cdcec676bdca7cb5e3cbd09a03a5637/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/25e5ace40c0019c7666e3c18ef3bfb65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/25e5ace40c0019c7666e3c18ef3bfb65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/f3ee5fa703a1ed58e02aea45889585c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/f3ee5fa703a1ed58e02aea45889585c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/65b0d89ab67b617c1757cd0f8dd7f44f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/65b0d89ab67b617c1757cd0f8dd7f44f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/0f20f415f9a0c16b9e742a5a988b2d83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/0f20f415f9a0c16b9e742a5a988b2d83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/4e27b977dc5420aafdcf9963e4c67d14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/4e27b977dc5420aafdcf9963e4c67d14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/79a995fee25d6cb444a2b0e3de771eb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/79a995fee25d6cb444a2b0e3de771eb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bb145a3912ddb2f2524a8193dd584d0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bb145a3912ddb2f2524a8193dd584d0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/1fc6fac5e1f680d7b85c8f31fcaf4efe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/1fc6fac5e1f680d7b85c8f31fcaf4efe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/81c9e53aaf6e2d8732524299e6d0cbdf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/81c9e53aaf6e2d8732524299e6d0cbdf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/96dbeea23e8a6d79f964a21362b02f7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/96dbeea23e8a6d79f964a21362b02f7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/8813fa072ccb44719643188205a069f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/8813fa072ccb44719643188205a069f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a098572ff02eb69d6c5dadeb972bed61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a098572ff02eb69d6c5dadeb972bed61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/0c380524c5a3cdc1841a805ed98317d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/0c380524c5a3cdc1841a805ed98317d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e88c3d86bc644a44a8b7e20066575482/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e88c3d86bc644a44a8b7e20066575482/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/9458eb339cc96d76165a899859fa1c99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/9458eb339cc96d76165a899859fa1c99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/4a2c83e9b50bb9203eb988024aafbba3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/4a2c83e9b50bb9203eb988024aafbba3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/b38a6a4ebb9b0c4bc21c56229504b851/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/b38a6a4ebb9b0c4bc21c56229504b851/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/6804f1d76d45a9e91eb7c1c22216bec6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/6804f1d76d45a9e91eb7c1c22216bec6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c2fa51acda9131a33d1aa8c13dfcee02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c2fa51acda9131a33d1aa8c13dfcee02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/fccc550693a9dba75dc87ce53da9e9fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/fccc550693a9dba75dc87ce53da9e9fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/6387b9e1ca6b99631e15af40e2883a27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/6387b9e1ca6b99631e15af40e2883a27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a5b2e6c829c6c6a173d87aebd79e91a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a5b2e6c829c6c6a173d87aebd79e91a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/6e3173007002ec84ca00bce72905ad16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/6e3173007002ec84ca00bce72905ad16/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2245df2b78e133bcb6b38633832c55ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2245df2b78e133bcb6b38633832c55ac/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/adafftech/Documents/Bhuwanesh/demoProject/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/18b7327af802b6722f42fb94a38ead58/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/18b7327af802b6722f42fb94a38ead58/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/18b7327af802b6722f42fb94a38ead58/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/18b7327af802b6722f42fb94a38ead58/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/2ff84038ff1d17d56117bc5b91a888e1/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/c3e3316eeae96c0a7bef61481db9115c/AndroidManifest.xml:49:13-87
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/bc6165de7e3c75d2718963b91e602f3b/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/e40b47230b2f3d9a3940316f928a8409/AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/06c3d5ee95fa2836def48f0c5a0b5367/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/06c3d5ee95fa2836def48f0c5a0b5367/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/06c3d5ee95fa2836def48f0c5a0b5367/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/06c3d5ee95fa2836def48f0c5a0b5367/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/06c3d5ee95fa2836def48f0c5a0b5367/AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a210a34bba3e3462ded1c43e67d2486f/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a210a34bba3e3462ded1c43e67d2486f/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a210a34bba3e3462ded1c43e67d2486f/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/a210a34bba3e3462ded1c43e67d2486f/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/068e31670d986f3fb11e928d80a34656/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/068e31670d986f3fb11e928d80a34656/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adafftech/.gradle/caches/transforms-2/files-2.1/068e31670d986f3fb11e928d80a34656/AndroidManifest.xml:24:13-58
